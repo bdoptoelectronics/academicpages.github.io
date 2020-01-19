@@ -4,6 +4,6 @@ collection: talks
 type: "Poster"
 permalink: /talks/2019-09-japanano
 venue: "JapaNano Symposium: TokyoTech, RIKEN, Toshiba"
-date: 2019-09
+date: 2019-09-30
 location: "Tokyo, Japan"
 ---
