@@ -1,6 +1,6 @@
 ---
 title: 'Japan 2019: Culture & Collaboration'
-date: 2012-08-14
+date: 2019-10-14
 permalink: /posts/2019/10/japan/
 tags:
   - japan
