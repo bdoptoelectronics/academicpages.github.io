@@ -65,6 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Committee Member - Cavendish Inspiring Women
-* Outreach volunteer and social media manager - Mind the Nanogap, Royal Society Summer Exhibition 2018
+* Committee Member - [Cavendish Inspiring Womxn](https://www.cavendishinspiringwomxn.co.uk/)
+* Outreach volunteer and social media manager - [Mind the Nanogap](http://nanogap.nanodtc.cam.ac.uk/), Royal Society Summer Exhibition
 * Graduate Officer & Novice Women's Captain - Fitzwilliam College Boat Club
