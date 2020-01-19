@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-01
 venue: 'Chemical Science'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'A. S. Romanov (2020). &quot;Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED.&quot; <i>Chem. Sci.</i>. 11.'
+#citation: 'A. S. Romanov (2020). &quot;Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED.&quot; <i>Chem. Sci.</i>. 11.'
 ---
 
 ![](http://bdoptoelectronics.github.io/images/cma_colors_TOC.png)
