@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bluebell Drummond"
+  name             : "Bluebell H. Drummond"
   avatar           : "profile.png"
-  bio              : "NanoDTC PhD candidate at the Cavendish Laboratory, University of Cambridge"
+  bio              : "NanoDTC PhD candidate at the Cavendish Laboratory, University of Cambridge investigating the spin and photo-physics of novel organic emitters."
   location         : "Cambridge, U.K."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bluebelldrummond"
+  linkedin         : "bluebelldrummond"
   orcid            : "https://orcid.org/0000-0001-5940-8631"
   pinterest        :
   soundcloud       :
