@@ -30,7 +30,7 @@ Work experience
 Awards
 ======
 * E D Davies Scholarship (2019)
-* Graduate Tutors' Prize for Distinction in MPhil
+* Graduate Tutors' Prize for Distinction in MPhil (2018)
 * College Senior Scholarship (2018, 2019)
 * Stachulski-Dudding Bursary Fund (2019)
 * Rittner Niederste-Hollenberg (2019)
@@ -51,7 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
