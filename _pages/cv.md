@@ -57,12 +57,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+Service and leadership
+======
+* Committee Member - Cavendish Inspiring Women
+* Outreach volunteer and social media manager - Mind the Nanogap, Royal Society Summer Exhibition 2018
+* Graduate Officer & Novice Women's Captain - Fitzwilliam College Boat Club
