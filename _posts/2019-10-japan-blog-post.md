@@ -1,7 +1,7 @@
 ---
 title: 'Japan 2019: Culture & Collaboration'
 date: 2019-10-14
-permalink: /posts/2019/10/japan/
+permalink: /posts/2019/10/14/japan/
 tags:
   - japan
   - nanodtc
