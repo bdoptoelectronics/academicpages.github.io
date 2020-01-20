@@ -16,8 +16,8 @@ Whilst still in Tokyo I went back to RIKEN where I was hosted by Prof. Tahara of
 
 ![Kaji Group, Fushimi Inari Shrine, Kyoto](http://bdoptoelectronics.github.io/images/kaji_lab_photo.png)
 
-![OPERA, Kyushu University](http://bdoptoelectronics.github.io/images/adachi_group_photo.png)
-
 Finally, I travelled further down the island to Fukuoka, the home of Kyushu University and thus [OPERA/the Adachi group](http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/?lang=en). Over the course of 3 days at OPERA I toured the advanced synthesis and device-testing setups and had many insightful meetings with members of the TADF team. Learning about the design rules necessary for efficient TADF from the perspective of chemists was particularly interesting. Of course, we also enjoyed some delicious seafood.
 
 Thank you to the Institute of Physics, Fitzwilliam College, and the NanoDTC for all the funding that made the trip possible!
+
+[OPERA, Kyushu University](http://bdoptoelectronics.github.io/images/adachi_group_photo.png)
