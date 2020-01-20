@@ -20,4 +20,4 @@ Finally, I travelled further down the island to Fukuoka, the home of Kyushu Univ
 
 Thank you to the Institute of Physics, Fitzwilliam College, and the NanoDTC for all the funding that made the trip possible!
 
-[OPERA, Kyushu University](http://bdoptoelectronics.github.io/images/adachi_group_photo.png)
+![OPERA, Kyushu University](http://bdoptoelectronics.github.io/images/adachi_group_photo.png)
