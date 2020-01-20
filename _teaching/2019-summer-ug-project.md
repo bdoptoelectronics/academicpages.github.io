@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate summer research project"
 collection: teaching
-type: ""
+type: "Supervision"
 permalink: /teaching/2019-summer-ug-project
 venue: "University of Cambridge, Department of Physics"
 date: 2019-07-01
