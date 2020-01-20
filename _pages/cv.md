@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* MPhys in Physics (First), University of Manchester, 2017
-* MRes in Nanoscience and Nanotechnology (Distinction), University of Cambridge, 2018
+* M.Phys in Physics (First), University of Manchester, 2017
+* M.Res in Nanoscience and Nanotechnology (Distinction), University of Cambridge, 2018
 * Ph.D in Experimental Physics, University of Cambridge, 2021 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Awards
 ======
