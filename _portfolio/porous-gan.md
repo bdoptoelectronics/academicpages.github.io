@@ -1,5 +1,5 @@
 ---
-title: "Porous gallium nitride"
+title: "Porosifying gallium nitride for sensors used in outer space"
 excerpt: ""
 collection: portfolio
 ---
