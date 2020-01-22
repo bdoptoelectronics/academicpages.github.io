@@ -13,3 +13,9 @@ author_profile: true
 
 
 <font size="+5"><b>Outreach</b></font>
+
+{% include base_path %}
+
+{% for post in site.outreach reversed %}
+  {% include archive-single.html %}
+{% endfor %}
