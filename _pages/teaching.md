@@ -32,9 +32,9 @@ Outreach
 * RobinSTEM Girls in Science Day, 2018
 * Physics@Work, The Cavendish Laboratory, 2018
 *	Hosted girl guides at GaN centre, 2018
-*	Royal Society Summer Science Exhibition 2018. 
-*	‘General Member’ of Cavendish Inspiring Womxn:   
+*	Royal Society Summer Science Exhibition, 2018 
+*	‘General Member’ of Cavendish Inspiring Womxn   
   Responsibilities:
-  *	CiW graduate careers event 2019.
-  *	Trinity Girls in STEM summer school and St. John’s Girls in Mathematics summer school.
-  *	Weekly tea-time sessions.
+    *	CiW graduate careers event 2019.
+    *	Trinity Girls in STEM summer school and St. John’s Girls in Mathematics summer school.
+    *	Weekly tea-time sessions.
