@@ -27,12 +27,13 @@ Undergraduate courses. _University of Cambridge, Department of Physics_
 Outreach
 ======
 
-* Cambridge Science Festival 2018, 2019
-* Royal Society Summer Science Exhibition 2018
+* Cambridge Science Festival 2018, 2019   
+  Developed hands-on activities.
+* Created website content, [Mind the Nanogap](https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/mind-the-nanogap/), Royal Society Summer Science Exhibition, 2018
+  Developed, built, and delivered elements of the exhibit. Created website content, including a quiz and promotiona video. Ran the social media.
 * RobinSTEM Girls in Science Day, 2018
 * Physics@Work, The Cavendish Laboratory, 2018
-*	Hosted girl guides at GaN centre, 2018
-*	Royal Society Summer Science Exhibition, 2018 
+*	[Hosted the Brownies](https://www.gan.msm.cam.ac.uk/news/fantastic-outreach) (girl guides) at the Cambridge centre for GaN centre, 2018
 *	‘General Member’ of Cavendish Inspiring Womxn   
   Responsibilities:
     *	CiW graduate careers event 2019.
