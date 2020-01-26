@@ -7,10 +7,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching & Outreach"
-    url: /teaching/    
+    url: /talks/        
         
   - title: "Blog Posts"
     url: /year-archive/
