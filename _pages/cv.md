@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * M.Phys in Physics (First), _University of Manchester_ 2017
 * M.Res in Nanoscience and Nanotechnology (Distinction), _University of Cambridge_ 2018
 * Ph.D in Experimental Physics, _University of Cambridge_ 2021 (expected)
