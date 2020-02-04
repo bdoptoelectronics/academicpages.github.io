@@ -16,16 +16,14 @@ redirect_from:
 
 ---
 
-Research experience
-======
+## Research experience
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ---
 
-Awards
-======
+## Awards
 * E D Davies Scholarship (2019)
 * C R Barber Trust Fund (2019)
 * Graduate Tutors' Prize for Distinction in MPhil (2018)
@@ -36,22 +34,20 @@ Awards
 
 ---
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ---
   
-Talks and presentations
-======
+## Talks and presentations
 Please see my [Talks](https://bdoptoelectronics.github.io/talks/) page for full details of research-related talks and presentations I have given.
 
 ---
   
-Teaching
-======
+## Teaching
+
 ### College tutorials
 Undergraduate courses. _Emmanuel College, University of Cambridge_ 2019
 
@@ -70,8 +66,8 @@ Undergraduate courses. _University of Cambridge, Department of Physics_ 2019
 
 ---
 
-Outreach & Science Communication
-=====
+## Outreach & Science Communication
+
 ### [Cavendish Inspiring Womxn](https://www.cavendishinspiringwomxn.co.uk/)
 Responsibilities as a 'general member':
 * CiW graduate careers event, 2019
