@@ -24,20 +24,12 @@ Research experience
 Awards
 ======
 * E D Davies Scholarship (2019)
+* C R Barber Trust Fund (2019)
 * Graduate Tutors' Prize for Distinction in MPhil (2018)
 * College Senior Scholarship (2018, 2019)
 * Stachulski-Dudding Bursary Fund (2019)
 * Rittner Niederste-Hollenberg (2019)
 * Student Opportunities Fund (2019)
- 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,9 +39,7 @@ Publications
   
 Talks and presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Please see my [Talks](https://bdoptoelectronics.github.io/talks/) page for full details of research-related talks and presentations I have given.
   
 Teaching
 ======
