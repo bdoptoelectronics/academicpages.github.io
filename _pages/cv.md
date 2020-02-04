@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Phys in Physics (First), University of Manchester, 2017
-* M.Res in Nanoscience and Nanotechnology (Distinction), University of Cambridge, 2018
-* Ph.D in Experimental Physics, University of Cambridge, 2021 (expected)
+* M.Phys in Physics (First), _University of Manchester_ 2017
+* M.Res in Nanoscience and Nanotechnology (Distinction), _University of Cambridge_ 2018
+* Ph.D in Experimental Physics, _University of Cambridge_ 2021 (expected)
 
 Research experience
 ======
