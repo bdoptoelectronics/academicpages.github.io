@@ -29,7 +29,7 @@ redirect_from:
 * Graduate Tutors' Prize for Distinction in MPhil (2018)
 * College Senior Scholarship (2018, 2019)
 * Stachulski-Dudding Bursary Fund (2019)
-* Rittner Niederste-Hollenberg (2019)
+* Rittner Niederste-Hollenberg Fund (2019)
 * Student Opportunities Fund (2019)
 
 ---
