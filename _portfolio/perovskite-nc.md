@@ -8,4 +8,4 @@ My two-month research project was part of an on-going collaboration between the 
 
 ![](http://bdoptoelectronics.github.io/images/perovskite_ncs.png)
 
-Perovskite nanocubes and nanosheets imaged using STEM-HAADF
+Figure: Perovskite nanocubes and nanosheets imaged using STEM-HAADF
