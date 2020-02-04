@@ -8,4 +8,4 @@ During my two-month research project at the [Cambridge Centre for Gallium Nitrid
 
 ![](http://bdoptoelectronics.github.io/images/porous_GaN.png)
 
-SEM image of a partially porosified wafer of gallium nitride
+Figure: SEM image of a partially porosified wafer of gallium nitride
