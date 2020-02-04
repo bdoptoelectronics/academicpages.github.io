@@ -1,5 +1,5 @@
 ---
-title: "Synthesising and characterisating colloidal perovskite nanocrystals"
+title: "Synthesising and characterising colloidal perovskite nanocrystals"
 excerpt: "I worked with the Catalysis & Process Integration Group and Stranks Lab at the University of Cambridge to synthesise perovskite nanocrystals using a 3D flow reactor, which I designed and built."
 collection: portfolio
 ---
