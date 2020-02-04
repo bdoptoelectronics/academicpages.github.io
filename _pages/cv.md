@@ -15,12 +15,16 @@ Education
 * M.Res in Nanoscience and Nanotechnology (Distinction), _University of Cambridge_ 2018
 * Ph.D in Experimental Physics, _University of Cambridge_ 2021 (expected)
 
+---
+
 Research experience
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Awards
 ======
 * E D Davies Scholarship (2019)
@@ -31,15 +35,21 @@ Awards
 * Rittner Niederste-Hollenberg (2019)
 * Student Opportunities Fund (2019)
 
+---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
   
 Talks and presentations
 ======
 Please see my [Talks](https://bdoptoelectronics.github.io/talks/) page for full details of research-related talks and presentations I have given.
+
+---
   
 Teaching
 ======
@@ -58,6 +68,8 @@ I designed and supervised an Undergraduate Research Opportunities Programme 10-w
 
 ### Cavendish Inspiring Womxn supervisions
 Undergraduate courses. _University of Cambridge, Department of Physics_ 2019
+
+---
 
 Outreach & Science Communication
 =====
