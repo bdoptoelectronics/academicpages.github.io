@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.Phys in Physics (First), _University of Manchester_ 2017
-* M.Res in Nanoscience and Nanotechnology (Distinction), _University of Cambridge_ 2018
-* Ph.D in Experimental Physics, _University of Cambridge_ 2021 (expected)
+* M.Phys in Physics (First), _University of Manchester_ 2013-2017
+* M.Res in Nanoscience and Nanotechnology (Distinction), _University of Cambridge_ 2017-2018
+* Ph.D in Experimental Physics, _University of Cambridge_ 2018-2021 (expected)
 
 ---
 
@@ -73,6 +73,8 @@ Responsibilities as a 'general member':
 * CiW graduate careers event, 2019
 *	Hosted Trinity Girls in STEM summer school and St. John’s Girls in Mathematics summer school, 2019
 *	Weekly tea-time sessions.
+
+### Bluedot Festival 2019
 
 ### [Cambridge Science Festival](https://www.sciencefestival.cam.ac.uk/) 
 _University of Cambridge_ 2018, 2019. Developed hands-on activities.
