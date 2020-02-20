@@ -12,4 +12,6 @@ Harnessing the near-infrared (NIR) region of the electromagnetic spectrum is exc
 
 [Visit paper online](https://pubs.acs.org/doi/10.1021/jacs.9b09323)
 
+[Open access request link](https://www.repository.cam.ac.uk/handle/1810/298692)
+
 Recommended citation: D. G. Congrave and B. H. Drummond et al. (2019). "A Simple Molecular Design Strategy for Delayed Fluorescence toward 1000 nm" <i>J. Am. Chem. Soc 1</i>. 141.
