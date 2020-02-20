@@ -15,4 +15,6 @@ Light-emitting carbene-metal amide complexes bearing first- and second-generatio
 
 [Visit paper online](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b05112)
 
+[Open access request link](https://www.repository.cam.ac.uk/handle/1810/292389)
+
 Recommended citation: A. S. Romanov. (2019). "Dendritic Carbene Metal Carbazole Complexes as Photoemitters for Fully Solution-Processed OLEDs." <i>Chem. Mater.</i>. 31.
