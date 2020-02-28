@@ -74,7 +74,8 @@ Responsibilities as a 'general member':
 *	Hosted Trinity Girls in STEM summer school and St. John’s Girls in Mathematics summer school, 2019
 *	Weekly tea-time sessions.
 
-### Bluedot Festival 2019
+### [Bluedot Festival](https://www.royce.ac.uk/news/bluedot-2019/)
+_Jodrell Bank Observatory_ 2019. Volunteered with the Royce Institute demonstrating how nature can inspire material development. [Youtube video of my demo.](https://www.youtube.com/watch?v=TKSnkl6-N8o)
 
 ### [Cambridge Science Festival](https://www.sciencefestival.cam.ac.uk/) 
 _University of Cambridge_ 2018, 2019. Developed hands-on activities.
