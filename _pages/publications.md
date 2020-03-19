@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-First author publications of mine are distinguished below by the inclusion of their full abstract.
+First author publications of mine are distinguished in the list below by the inclusion of their full abstract.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
