@@ -16,21 +16,10 @@ redirect_from:
 
 ---
 
-## Research experience
+## Research Experience
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
----
-
-## Awards
-* E D Davies Scholarship (2019)
-* C R Barber Trust Fund (2019)
-* Graduate Tutors' Prize for Distinction in MPhil (2018)
-* College Senior Scholarship (2018, 2019)
-* Stachulski-Dudding Bursary Fund (2019)
-* Rittner Niederste-Hollenberg Fund (2019, 2020)
-* Student Opportunities Fund (2019)
 
 ---
 
@@ -40,8 +29,19 @@ redirect_from:
   {% endfor %}</ul>
 
 ---
+
+## Awards and Prizes
+* E D Davies Scholarship (2019)
+* C R Barber Trust Fund (2019)
+* Graduate Tutors' Prize for Distinction in MPhil (2018)
+* College Senior Scholarship (2018, 2019)
+* Stachulski-Dudding Bursary Fund (2019)
+* Rittner Niederste-Hollenberg Fund (2019, 2020)
+* Student Opportunities Fund (2019)
+
+---
   
-## Talks and presentations
+## Talks and Presentations
 Please see my [Talks](https://bdoptoelectronics.github.io/talks/) page for full details of research-related talks and presentations I have given.
 
 ---
