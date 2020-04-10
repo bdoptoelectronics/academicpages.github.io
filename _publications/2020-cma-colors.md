@@ -2,7 +2,7 @@
 title: "Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED"
 collection: publications
 permalink: /publication/2020-cma-colors
-excerpt: ''
+excerpt: '*A. S. Romanov,  S. T. E. Jones, Q. Gu, P. J. Conaghan, B. H. Drummond, J. Feng, F. Chotard, L. Buizza, M. Foley, M. Linnolahti, D. Credgington, M. Bochmann (2020)*'
 date: 2020-01-01
 venue: 'Chemical Science'
 #paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04589A'
