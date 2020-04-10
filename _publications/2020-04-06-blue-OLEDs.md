@@ -2,8 +2,9 @@
 title: "Efficient and Stable Deep‐Blue Fluorescent Organic Light‐Emitting Diodes Employing a Sensitizer with Fast Triplet Upconversion"
 collection: publications
 permalink: /publication/2020-04-06-blue-oleds
-excerpt: '*D. Zhang,  X. Song,  A. J. Gillett,  B. H. Drummond,  S. T. E. Jones,  G. Li,  H. He,  M. Cai,  D. Credgington,  L. Duan (2020)*'
+excerpt: ''
 date: 2020-04-06
+authors: 'D. Zhang,  X. Song,  A. J. Gillett,  **B. H. Drummond**,  S. T. E. Jones,  G. Li,  H. He,  M. Cai,  D. Credgington,  L. Duan (2020)'
 venue: 'Advanced Materials'
 #paperurl: 'https://doi.org/10.1002/adma.201908355'
 #citation: 'D. Zhang,  X. Song,  A. J. Gillett,  B. H. Drummond,  S. T. E. Jones,  G. Li,  H. He,  M. Cai,  D. Credgington,  L. Duan (2020). &quot;Efficient and Stable Deep‐Blue Fluorescent Organic Light‐Emitting Diodes Employing a Sensitizer with Fast Triplet Upconversion.&quot; <i>Adv. Mater.</i>. 1908355.'
