@@ -13,4 +13,4 @@ Multiple donor–acceptor‐type carbazole–benzonitrile derivatives that exhib
 
 [Visit paper online](https://doi.org/10.1002/adma.201908355)
 
-Recommended citation: D. Zhang. (2020). "Efficient and Stable Deep‐Blue Fluorescent Organic Light‐Emitting Diodes Employing a Sensitizer with Fast Triplet Upconversion." <i>Adv. Mater.</i>. 1908355.
+Recommended citation: D. Zhang. (2020). "Efficient and Stable Deep‐Blue Fluorescent Organic Light‐Emitting Diodes Employing a Sensitizer with Fast Triplet Upconversion." <i>Adv. Mater.</i> 1908355.
