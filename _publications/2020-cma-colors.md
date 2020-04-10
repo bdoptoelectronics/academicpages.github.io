@@ -15,4 +15,4 @@ Conformationally flexible “Carbene–Metal–Amide” (CMA) complexes of coppe
 
 [Visit paper online](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04589A)
 
-Recommended citation: A. S. Romanov. (2020). "Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED." <i>Chem. Sci./i>. 11.
+Recommended citation: A. S. Romanov. (2020). "Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED." <i>Chem. Sci.</i>. 11.
