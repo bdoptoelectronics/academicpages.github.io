@@ -2,12 +2,14 @@
 title: "Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED"
 collection: publications
 permalink: /publication/2020-cma-colors
-excerpt: '*A. S. Romanov,  S. T. E. Jones, Q. Gu, P. J. Conaghan, B. H. Drummond, J. Feng, F. Chotard, L. Buizza, M. Foley, M. Linnolahti, D. Credgington, M. Bochmann (2020)*'
+excerpt: ''
 date: 2020-01-01
 venue: 'Chemical Science'
 #paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04589A'
-#citation: 'A. S. Romanov,  S. T. E. Jones, Q. Gu, P. J. Conaghan, B. H. Drummond, J. Feng, F. Chotard, L. Buizza, M. Foley, M. Linnolahti, D. Credgington, M. Bochmann (2020). &quot;Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED.&quot; <i>Chem. Sci.</i>. 11.'
+#citation: 'AS Romanov,  STE Jones, Q Gu, PJ Conaghan, BH Drummond, J Feng, F Chotard, L Buizza, M Foley, M Linnolahti, D Credgington, M Bochmann (2020). &quot;Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED.&quot; <i>Chem. Sci.</i>. 11.'
 ---
+
+Authors: *AS Romanov,  STE Jones, Q Gu, PJ Conaghan, **BH Drummond**, J Feng, F Chotard, L Buizza, M Foley, M Linnolahti, D Credgington, M Bochmann*
 
 ![](http://bdoptoelectronics.github.io/images/cma_colors_TOC.png)
 
