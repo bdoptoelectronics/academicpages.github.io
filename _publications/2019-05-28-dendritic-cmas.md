@@ -5,9 +5,11 @@ permalink: /publication/2019-05-28-dendritic-cmas
 excerpt: ''
 date: 2019-04-26
 venue: 'Chemistry of Materials'
-#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#paperurl: 'https://pubs.acs.org/doi/10.1021/acs.chemmater.8b05112'
 #citation: ' A. S. Romanov. (2019). &quot;Dendritic Carbene Metal Carbazole Complexes as Photoemitters for Fully Solution-Processed OLEDs.&quot; <i>Chem. Mater.</i>. 31.'
 ---
+
+Authors: *AS Romanov, L Yang, STE Jones, D Di, O Morley, **BH Drummond**, APM Reponen, M Linnolahti, D Credgington, M Bochmann*
 
 ![](http://bdoptoelectronics.github.io/images/dendritic_CMAs_TOC.png)
 
