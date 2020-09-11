@@ -81,7 +81,7 @@ _Jodrell Bank Observatory_ 2019. Volunteered with the Royce Institute demonstrat
 _University of Cambridge_ 2018, 2019. Developed hands-on activities.
 
 ### [Mind the Nanogap](http://nanogap.nanodtc.cam.ac.uk/), [Royal Society Summer Science Exhibition](https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/mind-the-nanogap/)
-_The Royal Society, London_ 2018. Developed, built, and delivered elements of the exhibit. Created website content, including a quiz and promotiona video. Ran the social media.
+_The Royal Society, London_ 2018. Developed, built, and delivered elements of the exhibit. Created website content, including a quiz and promotional video. Ran the social media.
 
 ### [Women in STEM Festival](https://www.robinson.cam.ac.uk/events/women-stem-festival-2018)
 _Robinson College, University of Cambridge_ 2018. Presented my research to school girls. Assisted the attendees in creating new wikipedia pages for women in STEM.
