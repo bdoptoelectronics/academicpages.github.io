@@ -1,6 +1,6 @@
 ---
 title: "Probing defects in commercial silicon solar cells using electron microscopy"
-excerpt: "During my MPhys project at the Photon Science Institute, University of Manchester I used electron microscopy to investigate the role of different types of defects present in multicrystalline silicon solar cells."
+excerpt: "During my MPhys project in 2017 at the Photon Science Institute, University of Manchester I used electron microscopy to investigate the role of different types of defects present in multicrystalline silicon solar cells."
 collection: portfolio
 ---
 
