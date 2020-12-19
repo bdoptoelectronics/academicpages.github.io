@@ -31,10 +31,11 @@ redirect_from:
 ---
 
 ## Awards and Prizes
+* Leathersellers' Graduate Scholarship (2020)
 * E D Davies Scholarship (2019)
 * C R Barber Trust Fund (2019)
 * Graduate Tutors' Prize for Distinction in MPhil (2018)
-* College Senior Scholarship (2018, 2019)
+* College Senior Scholarship (2018, 2019, 2020)
 * Stachulski-Dudding Bursary Fund (2019)
 * Rittner Niederste-Hollenberg Fund (2019, 2020)
 * Student Opportunities Fund (2019)
@@ -49,7 +50,7 @@ Please see my [Talks](https://bdoptoelectronics.github.io/talks/) page for full 
 ## Teaching
 
 ### College tutorials
-Undergraduate courses. _Emmanuel College, University of Cambridge_ 2019
+Undergraduate courses. _Emmanuel College, University of Cambridge_ 2019, 2020
 
 I supervised Part IB Physics tripos students (2nd year undergraduates) in the following subject areas:
 * Electromagnetism
