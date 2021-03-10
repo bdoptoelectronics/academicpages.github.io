@@ -1,0 +1,19 @@
+---
+title: "Suppressing aggregation induced quenching in anthracene based conjugated polymers"
+collection: publications
+permalink: /publication/2021-03-03-anth-poly
+excerpt: ''
+date: 2021-03-03
+authors: ''
+venue: 'Polymer Chemistry
+#paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2021/py/d1py00118c'
+#citation: 'D. G. Congrave, B. H. Drummond, V. Gray, A. D. Bond, A. Rao, R. H. Friend, H. Bronstein (2021). &quot;Suppressing aggregation induced quenching in anthracene based conjugated polymers.&quot; <i>Polym. Chem</i>.'
+---
+
+Authors: *DG Congrave, BH Drummond, V Gray, AD Bond, A Rao, RH Friend, H Bronstein*
+
+Anthracene is a highly valuable building block for luminescent conjugated polymers, particularly when a large singlet–triplet energy gap ($\Delta E_{ST}$) is desired. Unfortunately, the extended π system of anthracene imparts a strong tendency for polymer aggregation, resulting in detrimental effects on its solid state photophysics. A large decrease in photoluminescence quantum yield (PLQY, ΦF) on going from solution to the solid state is especially common, represented in terms of a low ΦR (ΦR = ΦF film/ΦF sol.). Significant and undesirable red-shifting of fluorescence in the solid state is also typical due to processes such as excimer formation. In this work a series of alkylene-encapsulated conjugated anthracene polymers is developed to overcome these challenging problems. We demonstrate a promising material which displays a good solid state PLQY that is effectively unchanged compared to solution measurements (ΦR ∼ 1, ΦF film ∼ 40%), alongside an identical PL 0–0 transition wavelength in solution and thin film. Such a direct transfer of luminescence properties from solution to the solid state is remarkable for a conjugated polymer and completely unprecedented for one based on anthracene.
+
+[Visit paper online](https://pubs.rsc.org/en/content/articlehtml/2021/py/d1py00118c)
+
+Recommended citation: D. Congrave. (2021). "Suppressing aggregation induced quenching in anthracene based conjugated polymers." <i>Polym. Chem.</i>.
