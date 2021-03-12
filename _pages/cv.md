@@ -31,6 +31,8 @@ redirect_from:
 ---
 
 ## Awards and Prizes
+* Best ePoster Prize, nanoGe Spring Meeting (2021)
+* First Place #RSCPhys Twitter Poster, Royal Society of Chemistry (2021)
 * Leathersellers' Graduate Scholarship (2020)
 * E D Davies Scholarship (2019)
 * C R Barber Trust Fund (2019)
