@@ -1,6 +1,6 @@
 ---
 title: 'Flipping spins to boost the efficiency of LEDs'
-date: 2019-10-14
+date: 2021-05-09
 permalink: /posts/flipping-spins/
 tags:
   - spin
